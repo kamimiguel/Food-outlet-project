@@ -16,7 +16,7 @@ import jakarta.validation.constraints.NotEmpty;
  * The User class represents a user entity in the application.
  * It is annotated with JPA annotations to map it to the database table "users".
  *
- * @author Miguel
+ * @author Princesse
  * @version 1.0
  */
 @Entity

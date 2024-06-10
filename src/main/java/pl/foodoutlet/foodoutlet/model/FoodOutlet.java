@@ -18,7 +18,7 @@ import jakarta.validation.constraints.NotEmpty;
 /**
  * Creates a schema for Request Body object used by Outlet Controller
  *
- * @author Princesse
+ * @author Miguel
  *
  */
 @Entity
