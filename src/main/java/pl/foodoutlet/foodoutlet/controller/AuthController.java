@@ -14,7 +14,7 @@ import pl.foodoutlet.foodoutlet.service.AuthService;
  * The AuthController class handles authentication-related HTTP requests.
  * It provides endpoints for user sign-up and sign-in operations.
  *
- * @author Raymond
+ * @author Miguel
  * @version 1.0
  * 
  */
@@ -29,7 +29,7 @@ public class AuthController {
     /**
      * Handles the HTTP POST request for user sign-up.
      *
-     * @author Raymond
+     * @author Miguel;
      * @param user The User object containing sign-up information.
      * @return The User object representing the signed-up user.
      */
@@ -41,7 +41,7 @@ public class AuthController {
     /**
      * Handles the HTTP POST request for user sign-in.
      * 
-     * @author Raymond
+     * @author Miguel
      * @param user The User object containing sign-in information.
      * @return The User object representing the signed-in user.
      * 

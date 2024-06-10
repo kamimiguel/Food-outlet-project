@@ -15,7 +15,7 @@ import pl.foodoutlet.foodoutlet.repository.RatingRepo;
  * 
  * used to query the Database through Rating Repository
  * 
- * @author Raymond
+ * @author Princesse
  *
  */
 @Service

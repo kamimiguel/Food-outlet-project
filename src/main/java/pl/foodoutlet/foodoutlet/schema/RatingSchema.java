@@ -3,7 +3,7 @@ package pl.foodoutlet.foodoutlet.schema;
 /**
  * Creates a schema for Request Body object used by Rating Controller
  * 
- * @author Kévin
+ * @author Princesse
  *
  */
 public class RatingSchema {

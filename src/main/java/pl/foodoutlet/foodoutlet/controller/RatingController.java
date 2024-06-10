@@ -21,7 +21,7 @@ import pl.foodoutlet.foodoutlet.service.RatingService;
  * Controller class for managing ratings in the Food Outlets Rating System.
  * Provides endpoints for CRUD operations on ratings.
  *
- * @author Kévin
+ * @author Miguel
  * @version 1.0
  *
  */
@@ -39,7 +39,7 @@ public class RatingController {
    *
    * @param ratingRequest The request payload containing rating and foodOutletId.
    * @return The created Rating entity.
-   * @author Kévin
+   * @author Miguel
    *
    */
 
@@ -52,7 +52,7 @@ public class RatingController {
    * Calls Rating Service to Fetch all Ratings from the Database
    * 
    * @return A List of all Ratings
-   * @author Kévin
+   * @author Miguel
    *
    */
 
@@ -66,7 +66,7 @@ public class RatingController {
    *
    * @param id The ID of the rating to retrieve.
    * @return The Rating entity if found, or null if not found.
-   * @author Kévin
+   * @author Miguel
    *
    */
   @GetMapping("/{id}")

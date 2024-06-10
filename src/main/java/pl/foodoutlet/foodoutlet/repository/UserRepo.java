@@ -9,7 +9,7 @@ import pl.foodoutlet.foodoutlet.model.User;
  * It provides CRUD (Create, Read, Update, Delete) operations for the User
  * entity.
  *
- * @author Raymond
+ * @author Miguel
  * @version 1.0
  * 
  */

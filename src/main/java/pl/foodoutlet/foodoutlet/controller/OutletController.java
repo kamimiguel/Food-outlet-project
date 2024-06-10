@@ -22,7 +22,7 @@ import pl.foodoutlet.foodoutlet.service.OutletService;
  * Controller class for managing Food Outlets in the Food Outlet Rating System.
  * Exposes RESTful endpoints for CRUD operations on Food Outlets.
  *
- * @author Raymond
+ * @author Princesse
  * @version 1.0
  * 
  */
@@ -37,7 +37,7 @@ public class OutletController {
     /**
      * Endpoint for creating a new Food Outlet.
      *
-     * @author Raymond
+     * @author Princesse
      * @param outlet The Food Outlet object to be created.
      * @return The created Food Outlet.
      * 
@@ -51,7 +51,7 @@ public class OutletController {
     /**
      * Endpoint for retrieving a list of all Food Outlets.
      *
-     * @author Raymond
+     * @author Princesse
      * @return List of Food Outlets.
      * 
      */
@@ -63,7 +63,7 @@ public class OutletController {
     /**
      * Endpoint for retrieving a specific Food Outlet by its ID.
      *
-     * @author Raymond
+     * @author Princesse
      * @param id The ID of the Food Outlet to retrieve.
      * @return The requested Food Outlet.
      * 
@@ -76,7 +76,7 @@ public class OutletController {
     /**
      * Endpoint for updating an existing Food Outlet.
      * 
-     * @author Raymond
+     * @author Princesse
      * @param id     The ID of the Food Outlet to update.
      * @param outlet The updated Food Outlet data.
      * @return The updated Food Outlet.
@@ -90,7 +90,7 @@ public class OutletController {
     /**
      * Endpoint for deleting a Food Outlet by its ID.
      *
-     * @author Raymond
+     * @author Princesse
      * @param id The ID of the Food Outlet to delete.
      * 
      */

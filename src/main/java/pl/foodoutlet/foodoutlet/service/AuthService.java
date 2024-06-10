@@ -13,7 +13,7 @@ import pl.foodoutlet.foodoutlet.repository.UserRepo;
  * The AuthService class provides authentication-related services,
  * including user sign-up and sign-in operations.
  *
- * @author Raymond
+ * @author Miguel
  * @version 1.0
  */
 @Service

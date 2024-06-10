@@ -13,7 +13,7 @@ import pl.foodoutlet.foodoutlet.repository.OutletRepo;
  * Service class for managing Food Outlets in the Food Outlet Rating System.
  * Provides business logic for CRUD operations on Food Outlets.
  *
- * @author Raymond
+ * @author Princesse
  * @version 1.0
  * 
  */
@@ -26,7 +26,7 @@ public class OutletService {
     /**
      * Creates a new Food Outlet.
      *
-     * @author Raymond
+     * @author Princesse
      * @param outlet The Food Outlet object to be created.
      * @return The created Food Outlet.
      * 
@@ -38,7 +38,7 @@ public class OutletService {
     /**
      * Retrieves a list of all Food Outlets.
      *
-     * @author Raymond
+     * @author Princesse
      * @return List of Food Outlets.
      * 
      */
@@ -49,7 +49,7 @@ public class OutletService {
     /**
      * Retrieves a specific Food Outlet by its ID.
      *
-     * @author Raymond
+     * @author Princesse
      * @param id The ID of the Food Outlet to retrieve.
      * @return The requested Food Outlet, or null if not found.
      * 
@@ -61,7 +61,7 @@ public class OutletService {
     /**
      * Updates an existing Food Outlet.
      *
-     * @author Raymond
+     * @author Princesse
      * @param id     The ID of the Food Outlet to update.
      * @param outlet The updated Food Outlet data.
      * @return The updated Food Outlet if successful, or null if the outlet doesn't
@@ -79,7 +79,7 @@ public class OutletService {
     /**
      * Deletes a Food Outlet by its ID.
      *
-     * @author Raymond
+     * @author Princesse
      * @param id The ID of the Food Outlet to delete.
      * 
      */

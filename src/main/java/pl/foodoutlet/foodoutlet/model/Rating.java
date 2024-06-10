@@ -9,7 +9,7 @@ import jakarta.persistence.*;
  * table.
  * The ratings are associated with a specific user and a food outlet.
  *
- * @author Raymond
+ * @author Miguel
  * @version 1.0
  * 
  */

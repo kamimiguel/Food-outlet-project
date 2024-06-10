@@ -27,7 +27,7 @@ import pl.foodoutlet.foodoutlet.service.RatingService;
 /**
  * Tests for Rating Controller, making sure it works as inteneded
  *
- * @author Raymond
+ * @author Princesse
  *
  */
 @WebMvcTest(RatingController.class)
